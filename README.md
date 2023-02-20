@@ -1,2 +1,2 @@
-# PBW-PemrogramanBasisWeb
+# PBW-Pemrograman Berbasis Web
 Pemrograman Berbasis Web
